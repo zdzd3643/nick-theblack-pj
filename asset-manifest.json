@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.299da926.css",
-    "main.js": "/static/js/main.a0b7b3ff.js",
+    "main.js": "/static/js/main.10c64f95.js",
     "static/media/NanumGothic.woff": "/static/media/NanumGothic.f727c12e92591b9b6b11.woff",
     "static/media/UbuntuCondensed-Regular.woff": "/static/media/UbuntuCondensed-Regular.0e74966b4929e938ab16.woff",
     "index.html": "/index.html",
     "main.299da926.css.map": "/static/css/main.299da926.css.map",
-    "main.a0b7b3ff.js.map": "/static/js/main.a0b7b3ff.js.map"
+    "main.10c64f95.js.map": "/static/js/main.10c64f95.js.map"
   },
   "entrypoints": [
     "static/css/main.299da926.css",
-    "static/js/main.a0b7b3ff.js"
+    "static/js/main.10c64f95.js"
   ]
 }
