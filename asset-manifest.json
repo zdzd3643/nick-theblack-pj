@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nick-theblack-pj/static/css/main.89ad94ac.css",
-    "main.js": "/nick-theblack-pj/static/js/main.686eecb5.js",
+    "main.css": "/nick-theblack-pj/static/css/main.0ea60f80.css",
+    "main.js": "/nick-theblack-pj/static/js/main.0eff7fc6.js",
     "static/media/NanumGothic.woff": "/nick-theblack-pj/static/media/NanumGothic.f727c12e92591b9b6b11.woff",
     "static/media/UbuntuCondensed-Regular.woff": "/nick-theblack-pj/static/media/UbuntuCondensed-Regular.0e74966b4929e938ab16.woff",
     "index.html": "/nick-theblack-pj/index.html",
-    "main.89ad94ac.css.map": "/nick-theblack-pj/static/css/main.89ad94ac.css.map",
-    "main.686eecb5.js.map": "/nick-theblack-pj/static/js/main.686eecb5.js.map"
+    "main.0ea60f80.css.map": "/nick-theblack-pj/static/css/main.0ea60f80.css.map",
+    "main.0eff7fc6.js.map": "/nick-theblack-pj/static/js/main.0eff7fc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.89ad94ac.css",
-    "static/js/main.686eecb5.js"
+    "static/css/main.0ea60f80.css",
+    "static/js/main.0eff7fc6.js"
   ]
 }
