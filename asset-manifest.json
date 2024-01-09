@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.29049aea.css",
-    "main.js": "/static/js/main.b8e8cdaf.js",
-    "static/media/NanumGothic.woff": "/static/media/NanumGothic.f727c12e92591b9b6b11.woff",
-    "static/media/UbuntuCondensed-Regular.woff": "/static/media/UbuntuCondensed-Regular.0e74966b4929e938ab16.woff",
-    "index.html": "/index.html",
-    "main.29049aea.css.map": "/static/css/main.29049aea.css.map",
-    "main.b8e8cdaf.js.map": "/static/js/main.b8e8cdaf.js.map"
+    "main.css": "/nick-theblack-pj/static/css/main.eaef07cc.css",
+    "main.js": "/nick-theblack-pj/static/js/main.b8e8cdaf.js",
+    "static/media/NanumGothic.woff": "/nick-theblack-pj/static/media/NanumGothic.f727c12e92591b9b6b11.woff",
+    "static/media/UbuntuCondensed-Regular.woff": "/nick-theblack-pj/static/media/UbuntuCondensed-Regular.0e74966b4929e938ab16.woff",
+    "index.html": "/nick-theblack-pj/index.html",
+    "main.eaef07cc.css.map": "/nick-theblack-pj/static/css/main.eaef07cc.css.map",
+    "main.b8e8cdaf.js.map": "/nick-theblack-pj/static/js/main.b8e8cdaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.29049aea.css",
+    "static/css/main.eaef07cc.css",
     "static/js/main.b8e8cdaf.js"
   ]
 }
