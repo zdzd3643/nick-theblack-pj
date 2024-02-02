@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nick-theblack-pj/static/css/main.f71be24e.css",
-    "main.js": "/nick-theblack-pj/static/js/main.f9750074.js",
+    "main.css": "/nick-theblack-pj/static/css/main.ace3fc95.css",
+    "main.js": "/nick-theblack-pj/static/js/main.44bb3ffb.js",
     "static/media/NanumGothic.woff": "/nick-theblack-pj/static/media/NanumGothic.f727c12e92591b9b6b11.woff",
     "static/media/UbuntuCondensed-Regular.woff": "/nick-theblack-pj/static/media/UbuntuCondensed-Regular.0e74966b4929e938ab16.woff",
     "index.html": "/nick-theblack-pj/index.html",
-    "main.f71be24e.css.map": "/nick-theblack-pj/static/css/main.f71be24e.css.map",
-    "main.f9750074.js.map": "/nick-theblack-pj/static/js/main.f9750074.js.map"
+    "main.ace3fc95.css.map": "/nick-theblack-pj/static/css/main.ace3fc95.css.map",
+    "main.44bb3ffb.js.map": "/nick-theblack-pj/static/js/main.44bb3ffb.js.map"
   },
   "entrypoints": [
-    "static/css/main.f71be24e.css",
-    "static/js/main.f9750074.js"
+    "static/css/main.ace3fc95.css",
+    "static/js/main.44bb3ffb.js"
   ]
 }
